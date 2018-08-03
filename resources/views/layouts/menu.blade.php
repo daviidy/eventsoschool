@@ -53,22 +53,22 @@
                     <a class="nav-link active" href="#">Accueil</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href="#">Formateurs</a>
+                    <a class="nav-link " href="#formateur">Formateurs</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href="#">Evénémentss</a>
+                    <a class="nav-link " href="#next">Evénémentss</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href="#">News</a>
+                    <a class="nav-link " href="https://oschool.ci" target="_blank">News</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href="#">Contact</a>
+                    <a class="nav-link " href="#contact">Contact</a>
                 </li>
-                <li class="search_btn">
+          <!--      <li class="search_btn">
                     <a  href="#">
                        <i class="ion-ios-search"></i>
                     </a>
-                </li>
+                </li> -->
             </ul>
         </div>
     </div>
@@ -80,7 +80,7 @@
 
 
 <!--footer start -->
-<footer>
+<footer id="contact">
     <div class="container">
         <div class="row justify-content-center">
 
@@ -122,8 +122,9 @@
                 <div class="footer_box">
                     <div class="footer_header">
                         <h4 class="footer_title">
-                            instagram
+                            appelez le +225 48459868
                         </h4>
+                        <p>Pour vos questions</p>
                     </div>
                     <div class="footer_box_body">
                         <ul class="instagram_list">
@@ -177,19 +178,19 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
             <div class="col-12 col-md-6 ">
                 <ul class="footer_menu">
                     <li>
-                        <a href="#">Home</a>
+                        <a href="#">Accueil</a>
                     </li>
                     <li>
-                        <a href="#">Speakers</a>
+                        <a href="#formateur">Formateurs</a>
                     </li>
                     <li>
-                        <a href="#">Events</a>
+                        <a href="#next">Evénements</a>
                     </li>
                     <li>
-                        <a href="#">News</a>
+                        <a href="https://oschool.ci" target="_blank">News</a>
                     </li>
                     <li>
-                        <a href="#">Contact</a>
+                        <a href="#contact">Contact</a>
                     </li>
                 </ul>
             </div>

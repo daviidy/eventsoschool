@@ -20,7 +20,7 @@
                             <p class="cover-date">
                               Par Oschool
                             </p>
-                            <a href="#" class=" btn btn-primary btn-rounded" >
+                            <a data-toggle="modal" data-target="#myModal" href="#" class=" btn btn-primary btn-rounded" >
                                 Réservez votre place maintenant
                             </a>
                         </div>
@@ -43,7 +43,7 @@
                             <p class="cover-date">
                               Par Oschool
                             </p>
-                            <a href="#" class=" btn btn-primary btn-rounded" >
+                            <a data-toggle="modal" data-target="#myModal" href="#" class=" btn btn-primary btn-rounded" >
                                 Réservez votre place maintenant
                             </a>
                         </div>
@@ -254,7 +254,7 @@
 
 
 <!--speaker section-->
-<section class="pb100">
+<section id="formateur" class="pb100">
     <div class="container">
         <div class="section_title mb50">
             <h3 class="title">
@@ -391,7 +391,7 @@
 <!--price section end -->
 
 <!--event calender-->
-<section class="pb100">
+<section id="next" class="pb100">
     <div class="container">
         <div class="table-responsive">
             <table class="event_calender table">
