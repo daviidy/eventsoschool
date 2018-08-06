@@ -30,8 +30,26 @@
 
 
 @if (session('status'))
-    <div class="alert alert-success">
+  <!--  <div class="alert alert-success">
         {{ session('status') }}
+    </div> -->
+    <div id="myModalx" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+        <!-- Modal content-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Bienvenue dans la team Oschool !</h4>
+          </div>
+          <div class="modal-body" style="background-color: #DEF0D8;
+    font-size: 16px;">
+            <p>{{ session('status') }}</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
     </div>
 @endif
 
@@ -195,6 +213,14 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     </div>
 </div>
 <!--footer end -->
+
+<script type="text/javascript">
+
+$(window).load(function(){
+  $('#myModalx').modal('show');
+   });
+
+</script>
 
 <!-- jquery -->
 <script src="/events/assets/js/jquery.min.js"></script>
