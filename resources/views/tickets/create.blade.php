@@ -13,7 +13,7 @@
 
       <form method="post" enctype="multipart/form-data" action="https://secure.cinetpay.com/" class="login100-form validate-form">
         <span class="login100-form-title">
-          Le ticket coûte 15.000 FCFA
+          Le ticket coûte 10.000 FCFA
         </span>
         {{ csrf_field() }}
 
