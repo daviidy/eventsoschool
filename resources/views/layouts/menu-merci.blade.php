@@ -48,7 +48,7 @@
             var hash = window.location.hash;
             if (hash === '') {
               alert('Back button was pressed.');
-                window.location='misses';
+                window.location='ticket';
                 return false;
             }
           }
