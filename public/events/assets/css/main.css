@@ -1657,7 +1657,7 @@ header ul.menu li a.nav-link {
   font-weight: 400;
   display: block;
   text-transform: uppercase;
-  color: black;
+  color: #fff;
 }
 header ul.menu li a.nav-link:hover {
   color: #f50136;
