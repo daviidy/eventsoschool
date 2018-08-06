@@ -5,9 +5,9 @@
 <div class="left-col-block blocks">
     <header class="header">
         <div class="content text-center">
-            <h1>Minaci 2018</h1>
+            <h1>Votre achat a été validé !</h1>
 
-            <p class="lead">La beauté naturelle Africaine</p>
+            <p class="lead">Consultez votre boîte mail</p>
             <ul class="social-icon">
                 <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
@@ -33,10 +33,18 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <button type="button" class="btn btn-primary" name="button">Votez encore</button>
+              <a href="https://events.oschool.ci">
+                <button type="button" class="btn btn-primary" name="button">Voir nos autres événements</button>
+              </a>
+
             </div>
             <div class="col-md-6">
-                <button type="button" class="btn" name="button">Revenir à la page d'accueil</button>
+              <a href="https://oschool.ci">
+
+                <button type="button" class="btn" name="button">Apprendre avec Oschool</button>
+
+              </a>
+
             </div>
         </div>
     </div>

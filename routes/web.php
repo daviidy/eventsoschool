@@ -15,6 +15,10 @@ Route::get('/', function () {
     return view('accueil');
 });
 
+Route::get('ticket', function () {
+    return view('tickets.show');
+})->name('ticket');
+
 
 Route::post('achat', 'TicketController@achat');
 Route::resource('tickets','TicketController');

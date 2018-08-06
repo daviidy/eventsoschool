@@ -133,7 +133,7 @@ class TicketController extends Controller
          $message->to('yaodavidarmel@gmail.com', 'A David')->subject('Notification pour nouvel achat de ticket Oschool');
          $message->from('eventsoschool@gmail.com', 'Oschool');
        });
-       return redirect('/')->with('status', 'Achat validé ! Votre ticket a été envoyé dans votre boîte de réception. Merci de la consulter.');
+       return redirect('ticket')->with('status', 'Achat validé ! Votre ticket a été envoyé dans votre boîte de réception. Merci de la consulter.');
 
      }
 
