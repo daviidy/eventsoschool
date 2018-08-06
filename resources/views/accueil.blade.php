@@ -5,7 +5,7 @@
 <!--cover section slider -->
 <section id="home" class="home-cover">
     <div class="cover_slider owl-carousel owl-theme">
-        <div class="cover_item" style="background: url('/events/assets/img/bg/slider.png');">
+        <div class="cover_item" style="background: url('/events/assets/img/bg/vacances.jpg');">
              <div class="slider_content">
                 <div class="slider-content-inner">
                     <div class="container">
@@ -15,10 +15,10 @@
                             </h2>
                             <strong class="cover-xl-text">vacances</strong>
                             <p class="cover-date">
-                                13 août-14 septembre 2018  - Université Cocody, Abidjan.
+                                20 août-21 septembre 2018  - Université Cocody, Abidjan.
                             </p>
                             <p class="cover-date">
-                              Par Oschool
+                              Inscrivez-vous avant le 20 août et payez 10.000 FCFA ! (80% de réduction)
                             </p>
                             <a data-toggle="modal" data-target="#myModal" href="#" class=" btn btn-primary btn-rounded" >
                                 Réservez votre place maintenant
@@ -28,7 +28,7 @@
                 </div>
             </div>
         </div>
-        <div class="cover_item" style="background: url('/events/assets/img/bg/slider.png');">
+        <div class="cover_item" style="background: url('/events/assets/img/bg/vacances.jpg');">
             <div class="slider_content">
                 <div class="slider-content-inner">
                     <div class="container">
@@ -38,10 +38,10 @@
                             </h2>
                             <strong class="cover-xl-text">coder</strong>
                             <p class="cover-date">
-                                13 août-14 septembre 2018  - Université Cocody, Abidjan.
+                                20 août-21 septembre 2018  - Université Cocody, Abidjan.
                             </p>
                             <p class="cover-date">
-                              Par Oschool
+                              Inscrivez-vous avant le 20 août et payez 10.000 FCFA ! (80% de réduction)
                             </p>
                             <a data-toggle="modal" data-target="#myModal" href="#" class=" btn btn-primary btn-rounded" >
                                 Réservez votre place maintenant
@@ -51,7 +51,7 @@
                 </div>
             </div>
         </div>
-        <div class="cover_item" style="background: url('/events/assets/img/bg/slider.png');">
+        <div class="cover_item" style="background: url('/events/assets/img/bg/vacances.jpg');">
             <div class="slider_content">
                 <div class="slider-content-inner">
                     <div class="container">
@@ -61,10 +61,10 @@
                           </h2>
                           <strong class="cover-xl-text">vendre</strong>
                           <p class="cover-date">
-                              13 août-14 septembre 2018  - Université Cocody, Abidjan.
+                              20 août-21 septembre 2018  - Université Cocody, Abidjan.
                           </p>
                           <p class="cover-date">
-                            Par Oschool
+                            Inscrivez-vous avant le 20 août et payez 10.000 FCFA ! (80% de réduction)
                           </p>
                           <a data-toggle="modal" data-target="#myModal" href="#" class=" btn btn-primary btn-rounded" >
                               Réservez votre place maintenant
@@ -97,7 +97,7 @@
                             DATE
                         </h5>
                         <p>
-                            13 août-14 septembre 2018
+                            20 août-21 septembre 2018
                         </p>
                     </div>
                 </div>
@@ -140,7 +140,7 @@
                             Participation
                         </h5>
                         <p>
-                            15.000 FCFA
+                            10.000 FCFA
                         </p>
                     </div>
                 </div>
@@ -177,7 +177,7 @@
         <div class="row justify-content-center">
             <div class="col-12 col-md-6">
                 <p>
-                  Du 13 août au 14 septembre, mon entreprise Oschool organise
+                  Du 20 août au 21 septembre, mon entreprise Oschool organise
                   des cours de vacances en développement Front-End.
                   Si suivre des cours en ligne est particulièrement difficile pour toi,
                   je crois que c'est l'unique occasion pour toi d'apprendre à coder ou vendre.
@@ -315,7 +315,7 @@
                        </h6>
                    </div>
                     <div class="price_tag">
-                        15000 <sup>CFA</sup>
+                        10000 <sup>CFA</sup>
                     </div>
 
                     <div class="price_footer">
