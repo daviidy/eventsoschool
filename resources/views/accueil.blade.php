@@ -238,10 +238,9 @@
                 <div class="icon_box_one">
                     <i class="lnr lnr-clock"></i>
                     <div class="content">
-                        <h4>Organisez votre formation</h4>
+                        <h4>1 programme</h4>
                         <p>
-                            En participant aux évévements Oschool, vous organisez mieux votre formation,
-                            et augmentez vos chances d'atteindre vos objectifs de carrière.
+                            Vous pouvez consulter le programme de cet événement en cliquant <a href="https://events.oschool.ci/docs/code-de-vacances.pdf" target="_blank">ici</a>
                         </p>
                     </div>
                 </div>
