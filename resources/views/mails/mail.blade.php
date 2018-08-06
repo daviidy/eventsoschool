@@ -20,7 +20,7 @@
                 <table align="center" border="0" cellpadding="0" cellspacing="0" class="content" style="background-color: #FFFFFF">
                     <tr>
                         <td id="templateContainerHeader" valign="top" mc:edit="welcomeEdit-01">
-                            <p style="text-align:center;margin:0;padding:0;"><img height="150" src="https://minaci.oschool.ci/edu/nappy.jpeg" style="display:inline-block;"></p>
+                            <p style="text-align:center;margin:0;padding:0;"><img height="150" src="/img/logo.png" style="display:inline-block;"></p>
                         </td>
                     </tr>
 
@@ -31,7 +31,7 @@
                                     <td class="bodyContent" valign="top" mc:edit="welcomeEdit-02">
                                         <p>Salut {{$ticket->name}}</p>
 
-                                        <h1><strong>Votre achat de ticket pour<br>
+                                        <h1><strong>Votre achat de ticket pour le cours de vacances {{$ticket->objet}}<br>
                      a été validé!</strong></h1>
 
                                         <h3>Merci pour votre achat. Conservez bien ce ticket, car
@@ -137,8 +137,6 @@
                                 <tr>
                                     <td class="bodyContent" valign="top" mc:edit="welcomeEdit-11">
                                         <h3><strong>Apprenez toujours avec Oschool !</strong></h3>
-
-                                        <h4></h4><a class="blue-btn" href="https://oschool.ci"><strong>Voter</strong></a>
                                     </td>
                                 </tr>
                             </table>
