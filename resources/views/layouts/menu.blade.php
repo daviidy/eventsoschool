@@ -27,10 +27,7 @@
     <link href="/events/assets/css/main.css" rel="stylesheet">
 </head>
 <body>
-<div class="loader">
-    <div class="loader-outter"></div>
-    <div class="loader-inner"></div>
-</div>
+
 
 @if (session('status'))
     <div class="alert alert-success">
@@ -56,7 +53,7 @@
                     <a class="nav-link " href="#formateur">Formateurs</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href="#next">Evénémentss</a>
+                    <a class="nav-link " href="#next">Evénéments</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " href="https://oschool.ci" target="_blank">News</a>
