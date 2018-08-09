@@ -180,17 +180,17 @@
                         <ul class="instagram_list">
                             <li>
                                 <a href="#">
-                                    <img src="/events/assets/img/cleander/c1.png" alt="instagram">
+                                    <img src="/events/assets/img/cleander/html.png" alt="image bootcamp html">
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    <img src="/events/assets/img/cleander/c2.png" alt="instagram">
+                                    <img src="/events/assets/img/cleander/marketing.jpg" alt="image bootcamp marketing">
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    <img src="/events/assets/img/cleander/c3.png" alt="instagram">
+                                    <img src="/events/assets/img/cleander/facebook.png" alt="image bootcamp facebook">
                                 </a>
                             </li>
                             <li>
