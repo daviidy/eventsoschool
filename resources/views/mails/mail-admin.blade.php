@@ -32,7 +32,7 @@
                                         <p>Salut David</p>
 
                                         <h1><strong>Un nouveau ticket vient d'être acheté pour<br>
-                    Minaci 2018 !</strong></h1>
+                    Oschool Code de Vacances 2018 !</strong></h1>
 
                                         <h3>Un utilisateur vient d'acheter un nouveau ticket. Voici ses informations</h3>
                                     </td>

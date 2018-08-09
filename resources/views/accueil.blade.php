@@ -350,8 +350,8 @@
             <div class="form-group">
               <label for="">Type</label>
               <select name="objet" class="form-control" style="" required>
-                <option value="Marketing">Programmation web</option>
-                <option value="Marketing">Marketing digital</option>
+                <option value="Programmation Web">Programmation web</option>
+                <option value="Marketing Digital">Marketing digital</option>
               </select>
             </div>
             <div style="display: none;" class="form-group">
