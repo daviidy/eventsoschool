@@ -257,7 +257,7 @@
     <div class="container">
         <div class="section_title mb50">
             <h3 class="title">
-               nos formateurs
+               Nos formateurs
             </h3>
         </div>
     </div>
@@ -303,7 +303,7 @@
             <div class="col-md-4 col-12">
                 <div class="price_box active">
                     <div class="price_highlight">
-                        recommandé
+                        Recommandé
                     </div>
                    <div class="price_header">
                        <h4>
@@ -398,7 +398,7 @@
                   <tr>
                       <th>
                           <i class="ion-ios-calendar-outline"></i>
-                          <span>prochains événements</span>
+                          <span>Prochains événements</span>
                       </th>
                       <th></th>
                       <th></th>
@@ -409,7 +409,7 @@
                 <tbody>
                 <tr>
                     <td>
-                        <img src="/events/assets/img/cleander/c1.png" alt="event">
+                        <img src="/events/assets/img/cleander/marketing.jpg" alt="image bootcamp marketing">
                     </td>
                     <td class="event_date">
                         22
@@ -431,7 +431,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <img src="/events/assets/img/cleander/c2.png" alt="event">
+                        <img src="/events/assets/img/cleander/html.png" alt="image bootcamp html">
                     </td>
                     <td class="event_date">
                         6
@@ -453,7 +453,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <img src="/events/assets/img/cleander/c3.png" alt="event">
+                        <img src="/events/assets/img/cleander/facebook.jpg" alt="image bootcamp facebook">
                     </td>
                     <td class="event_date">
                         20

@@ -3,12 +3,12 @@
 <head>
     <!-- ========== Meta Tags ========== -->
     <meta charset="UTF-8">
-    <meta name="description" content="Tous les événements éducatifs Oschool">
-    <meta name="keywords" content="Oschool, Elearning, Formation en ligne, Cours de Vacances">
-    <meta name="author" content="ColorLib">
+    <meta name="description" content="Retrouvez tous les événements éducatifs organisé par Oschool. Notamment nos bootcamps, nos séances de formation intensives et nos meetups !">
+    <meta name="keywords" content="Oschool, Elearning, Formation en ligne, Cours de Vacances, Formation programmation, Formation informatique">
+    <meta name="author" content="Oschool">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!-- ========== Title ========== -->
-    <title> Oschool Events</title>
+    <title> Oschool Events - @yield('title')</title>
     <!-- ========== Favicon Ico ========== -->
     <!--<link rel="icon" href="fav.ico">-->
     <!-- ========== STYLESHEETS ========== -->
@@ -25,6 +25,41 @@
     <link rel="stylesheet" href="/events/assets/css/animate.min.css">
     <!-- Custom styles for this template -->
     <link href="/events/assets/css/main.css" rel="stylesheet">
+    <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Cours de Vacances Oschool",
+  "startDate": "2018-08-20T10:00-13:00",
+  "location": {
+    "@type": "Place",
+    "name": "Université de Cocody",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Cocody",
+      "postalCode": "00225",
+      "addressCountry": "CI"
+    }
+  },
+  "image": [
+    "https://events.oschool.ci/events/assets/img/bg/events.jpg",
+   ],
+  "description": "Join us for an afternoon of Jazz with Santa Clara resident and pianist Andy Lagunoff. Complimentary food and beverages will be served.",
+  "endDate": "2018-09-21T10:00-13:00",
+  "offers": {
+    "@type": "Offer",
+    "url": "https://events.oschool.ci",
+    "price": "10000",
+    "priceCurrency": "FCFA",
+    "availability": "http://schema.org/InStock",
+    "validFrom": "2017-01-20T16:20-08:00"
+  },
+  "performer": {
+    "@type": "PerformingGroup",
+    "name": "David YAO"
+  }
+}
+</script>
 </head>
 <body>
 
@@ -57,7 +92,7 @@
 <header class="header navbar fixed-top navbar-expand-md">
     <div class="container">
         <a class="navbar-brand logo" href="#">
-            <img width="150" src="/img/logofond1.png" alt="Oschool Events"/>
+            <img width="150" src="/img/logo-oschool-events.png" alt="Oschool Events"/>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#headernav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="lnr lnr-text-align-right"></span>
@@ -103,7 +138,7 @@
                 <div class="footer_box">
                     <div class="footer_header">
                         <div class="footer_logo">
-                            <img src="/img/logofond1.png" alt="evento">
+                            <img src="/img/logo-oschool-events.png" alt="evento">
                         </div>
                     </div>
                     <div class="footer_box_body">
