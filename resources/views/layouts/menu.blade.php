@@ -113,6 +113,8 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " href="#contact">Contact</a>
+                </li><li class="nav-item">
+                    <a class="nav-link " href="https://vimeo.com/284831688" target="_blank">Comment acheter un ticket ?</a>
                 </li>
           <!--      <li class="search_btn">
                     <a  href="#">
@@ -193,21 +195,7 @@
                                     <img src="/events/assets/img/cleander/facebook.png" alt="image bootcamp facebook">
                                 </a>
                             </li>
-                            <li>
-                                <a href="#">
-                                    <img src="/events/assets/img/cleander/c3.png" alt="instagram">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img src="/events/assets/img/cleander/c2.png" alt="instagram">
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <img src="/events/assets/img/cleander/c1.png" alt="instagram">
-                                </a>
-                            </li>
+
                         </ul>
                     </div>
                 </div>

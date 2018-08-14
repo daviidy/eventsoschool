@@ -158,7 +158,7 @@
         <div class="row justify-content-center">
             <div class="col-12 col-md-10">
                 <h4 class="mb30 text-center color-light">Dépêchez-vous ! Il reste encore</h4>
-                <div class="countdown"></div>
+                <div class="countdown"></div> 
             </div>
         </div>
     </div>
