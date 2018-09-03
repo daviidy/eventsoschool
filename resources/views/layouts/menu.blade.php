@@ -192,7 +192,7 @@
                             </li>
                             <li>
                                 <a href="#">
-                                    <img src="/events/assets/img/cleander/facebook.png" alt="image bootcamp facebook">
+                                    <img src="/events/assets/img/cleander/facebook.jpg" alt="image bootcamp facebook">
                                 </a>
                             </li>
 
