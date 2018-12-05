@@ -3,7 +3,7 @@
 <head>
     <!-- ========== Meta Tags ========== -->
     <meta charset="UTF-8">
-    <meta name="description" content="Retrouvez tous les événements éducatifs organisé par Oschool. Notamment nos bootcamps, nos séances de formation intensives et nos meetups !">
+    <meta name="description" content="Oschool MADE 2018, le rendez-vous des Amoureux du Digital et de l'Education">
     <meta name="keywords" content="Oschool, Elearning, Formation en ligne, Cours de Vacances, Formation programmation, Formation informatique">
     <meta name="author" content="Oschool">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -178,6 +178,7 @@
                         </h4>
                         <p>Pour vos questions</p>
                     </div>
+                    <!--
                     <div class="footer_box_body">
                         <ul class="instagram_list">
                             <li>
@@ -198,6 +199,7 @@
 
                         </ul>
                     </div>
+                  -->
                 </div>
             </div>
 

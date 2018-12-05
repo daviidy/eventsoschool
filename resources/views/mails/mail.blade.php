@@ -31,7 +31,7 @@
                                     <td class="bodyContent" valign="top" mc:edit="welcomeEdit-02">
                                         <p>Salut {{$ticket->name}}</p>
 
-                                        <h1><strong>Votre achat de ticket pour le cours de vacances {{$ticket->objet}}<br>
+                                        <h1><strong>Votre achat de ticket pour {{$ticket->objet}}<br>
                      a été validé!</strong></h1>
 
                                         <h3>Merci pour votre achat. Conservez bien ce ticket, car

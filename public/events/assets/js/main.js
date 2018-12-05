@@ -59,7 +59,7 @@ $(document).ready(function() {
     });
 
     $(".countdown")
-        .countdown("2018/08/17", function(event) {
+        .countdown("2018/12/15", function(event) {
             $(this).html(
                 event.strftime('<div>%w <span>semaines</span></div>  <div>%D <span>jours</span></div>  <div>%H<span>heures</span></div> <div>%M<span>minutes</span></div> <div>%S<span>secondes</span></div>')
             );

@@ -10,15 +10,15 @@
                 <div class="slider-content-inner">
                     <div class="container">
                         <div class="slider-content-center">
-                            <h2 class="cover-title">
-                                Soyez prêts pour les
+                            <h2 style="font-size: 18px;" class="cover-title">
+                                Meeting des Amoureux du Digital et de l'Education
                             </h2>
-                            <strong class="cover-xl-text">vacances</strong>
+                            <strong style="font-size: 68px;" class="cover-xl-text">OSCHOOL MADE 2018</strong>
                             <p class="cover-date">
-                                20 août-21 septembre 2018  - Université Cocody, Abidjan.
+                                15 décembre 2018  - Hotel Novotel, Abidjan.
                             </p>
                             <p class="cover-date">
-                              Inscrivez-vous avant le 20 août et payez 10.000 FCFA ! (80% de réduction)
+                              Thème: Comment réussir dans le digital en 2019 ?
                             </p>
                             <a data-toggle="modal" data-target="#myModal" href="#" class=" btn btn-primary btn-rounded" >
                                 Réservez votre place maintenant
@@ -33,15 +33,15 @@
                 <div class="slider-content-inner">
                     <div class="container">
                         <div class="slider-content-left">
-                            <h2 class="cover-title">
-                                Apprenez à
+                            <h2 style="font-size: 18px;" class="cover-title">
+                                Quels sont les métiers à apprendre en 2019 ?
                             </h2>
-                            <strong class="cover-xl-text">coder</strong>
+                            <strong style="font-size: 68px;" class="cover-xl-text">OSCHOOL MADE 2018</strong>
                             <p class="cover-date">
-                                20 août-21 septembre 2018  - Université Cocody, Abidjan.
+                                15 décembre 2018  - Hotel Novotel, Abidjan.
                             </p>
                             <p class="cover-date">
-                              Inscrivez-vous avant le 20 août et payez 10.000 FCFA ! (80% de réduction)
+                              Thème: Comment réussir dans le digital en 2019 ?
                             </p>
                             <a data-toggle="modal" data-target="#myModal" href="#" class=" btn btn-primary btn-rounded" >
                                 Réservez votre place maintenant
@@ -56,15 +56,15 @@
                 <div class="slider-content-inner">
                     <div class="container">
                         <div class="slider-content-center">
-                          <h2 class="cover-title">
-                              Apprenez à
+                          <h2 style="font-size: 18px;" class="cover-title">
+                              Entreprendre sur le web: comment ?
                           </h2>
-                          <strong class="cover-xl-text">vendre</strong>
+                          <strong style="font-size: 68px;" class="cover-xl-text">OSCHOOL MADE 2018</strong>
                           <p class="cover-date">
-                              20 août-21 septembre 2018  - Université Cocody, Abidjan.
+                              15 décembre 2018  - Hotel Novotel, Abidjan.
                           </p>
                           <p class="cover-date">
-                            Inscrivez-vous avant le 20 août et payez 10.000 FCFA ! (80% de réduction)
+                            Thème: Comment réussir dans le digital en 2019 ?
                           </p>
                           <a data-toggle="modal" data-target="#myModal" href="#" class=" btn btn-primary btn-rounded" >
                               Réservez votre place maintenant
@@ -97,7 +97,7 @@
                             DATE
                         </h5>
                         <p>
-                            20 août-21 septembre 2018
+                            Samedi 15 décembre 2018
                         </p>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                             lieu
                         </h5>
                         <p>
-                            Université Cocody, Abidjan.
+                            Novotel, Abidjan.
                         </p>
                     </div>
                 </div>
@@ -122,10 +122,10 @@
                     <i class="ion-ios-person-outline"></i>
                     <div class="content">
                         <h5 class="box_title">
-                            formateurs
+                            speakers
                         </h5>
                         <p>
-                            David YAO, Adams Tehoua
+                            David YAO
                             + invités
                         </p>
                     </div>
@@ -140,7 +140,7 @@
                             Participation
                         </h5>
                         <p>
-                            10.000 FCFA
+                            5.000 FCFA
                         </p>
                     </div>
                 </div>
@@ -157,8 +157,8 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-md-10">
-                <h4 class="mb30 text-center color-light">Dépêchez-vous ! Il reste encore</h4>
-                <div class="countdown"></div> 
+                <h4 class="mb30 text-center color-light">Dépêchez-vous ! Les inscriptions se terminent dans:</h4>
+                <div class="countdown"></div>
             </div>
         </div>
     </div>
@@ -177,16 +177,17 @@
         <div class="row justify-content-center">
             <div class="col-12 col-md-6">
                 <p>
-                  Du 20 août au 21 septembre, mon entreprise Oschool organise
-                  des cours de vacances en développement Front-End.
-                  Si suivre des cours en ligne est particulièrement difficile pour toi,
-                  je crois que c'est l'unique occasion pour toi d'apprendre à coder ou vendre.
+                  Oschool MADE est un événemen initié par Oschool, et qui réunit les
+                  amoureux du digital et de l'éducation, afin d'échanger sur le futur de
+                  ces deux domaines. Lors de cet événement,
+                  il y est aussi question de la facon dont chacun peut naviguer pour profiter de la révouliton digitale
+                  en Afrique.
                 </p>
             </div>
             <div class="col-12 col-md-6">
                 <p>
-                    Du lundi au vendredi, 3 heures de travail, 1 mois d'acharnement.
-                    A la clé, un certificat de réusiite et d'autres bonus.
+                    Ce samedi 15 décembre 2018, c'est l'unique chance pour vous
+                    de prendre en main votre vie en 2019
                 </p>
             </div>
         </div>
@@ -197,12 +198,11 @@
                 <div class="icon_box_one">
                     <i class="lnr lnr-mic"></i>
                     <div class="content">
-                        <h4>2 formateurs</h4>
+                        <h4>3 speakerss</h4>
                         <p>
-                            David et Adams savent à quel point il est difficile d'apprendre
-                            les métiers du digital tels que la programmation et le marketing.
-                            Ils seront là pour vous coacher, vous aider à surmonter les mêmes
-                            obstacles qu'ils ont rencontré par le passé.
+                            Vous aurez l'occasion d'entendre 3 personnes
+                            qui font bouger le milieu digital ivoirien par leur expertise ou
+                            entreprise.
                         </p>
                       <!--  <a href="#">read more</a> -->
                     </div>
@@ -213,10 +213,10 @@
                 <div class="icon_box_one">
                     <i class="lnr lnr-rocket"></i>
                     <div class="content">
-                        <h4>3 hrs de Marathon</h4>
+                        <h4>3 hrs d'échanges constructifs</h4>
                         <p>
-                            Vous découvrirez le web sous des aspects nouveaux,
-                            et verrez tout ce qu'il est possible de faire avec.
+                            Vous saurez ce qu'est vraiment le digital, queles sont les métiers les plus recherchés
+                            en 2019, et comment entreprendre sur le web.
                         </p>
                     </div>
                 </div>
@@ -226,9 +226,10 @@
                 <div class="icon_box_one">
                     <i class="lnr lnr-bullhorn"></i>
                     <div class="content">
-                        <h4>Accès à Team Oschool</h4>
+                        <h4>Networking</h4>
                         <p>
-                            La Team Oschool, c'est plus de 300 personnes réunies autour du thème du digital !
+                            Profitez de cet événement, pour rencontrer, et échanger avec experts du milieu professionnel digital !
+                            Rencontrez aussi les centaines de membre de la communauté Oschool qui seront à cet événement !
                         </p>
                     </div>
                 </div>
@@ -240,7 +241,7 @@
                     <div class="content">
                         <h4>1 programme</h4>
                         <p>
-                            Vous pouvez consulter le programme de cet événement en cliquant <a href="https://events.oschool.ci/docs/code-de-vacances.pdf" target="_blank">ici</a>
+                            Vous pouvez consulter le programme de cet événement en cliquant <a href="https://oschool.ci/wp-content/uploads/2018/12/oschool-made-2018.png" target="_blank">ici</a>
                         </p>
                     </div>
                 </div>
@@ -257,7 +258,7 @@
     <div class="container">
         <div class="section_title mb50">
             <h3 class="title">
-               Nos formateurs
+               Peakers
             </h3>
         </div>
     </div>
@@ -276,9 +277,9 @@
         <div class="col-md-3 col-sm-6">
             <div class="speaker_box">
                 <div class="speaker_img">
-                    <img src="/img/adams.jpeg" alt="David YAO">
+                    <img style="width: 63%;" src="/img/clyde.jpg" alt="David YAO">
                     <div class="info_box">
-                        <h5 class="name">Adams TEHOUA</h5>
+                        <h5 class="name">Clyde Vacher</h5>
                         <p class="position">Marketeur et entrepreneur</p>
                     </div>
                 </div>
@@ -350,8 +351,7 @@
             <div class="form-group">
               <label for="">Type</label>
               <select name="objet" class="form-control" style="" required>
-                <option value="Programmation Web">Programmation web</option>
-                <option value="Marketing Digital">Marketing digital</option>
+                <option value="OSCHOOL MADE 2018">OSCHOOL MADE 2018</option>
               </select>
             </div>
             <div style="display: none;" class="form-group">
@@ -389,7 +389,7 @@
 </section>
 <!--price section end -->
 
-<!--event calender-->
+<!--event calender
 <section id="next" class="pb100">
     <div class="container">
         <div class="table-responsive">
@@ -478,7 +478,9 @@
         </div>
     </div>
 </section>
-<!--event calender end -->
+event calender end -->
+
+
 
 <!--brands section
 <section class="bg-gray pt100 pb100">
