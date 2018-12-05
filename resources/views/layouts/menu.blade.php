@@ -103,7 +103,7 @@
                     <a class="nav-link active" href="#">Accueil</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href="#formateur">Formateurs</a>
+                    <a class="nav-link " href="#formateur">Speakers</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " href="#next">Evénéments</a>
