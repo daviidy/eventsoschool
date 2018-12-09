@@ -20,7 +20,7 @@
                             <p class="cover-date">
                               Thème: Comment réussir dans le digital en 2019 ?
                             </p>
-                            <a data-toggle="modal" data-target="#myModal" href="#" class=" btn btn-primary btn-rounded" >
+                            <a href="#price" class=" btn btn-primary btn-rounded" >
                                 Réservez votre place maintenant
                             </a>
                         </div>
@@ -43,7 +43,7 @@
                             <p class="cover-date">
                               Thème: Comment réussir dans le digital en 2019 ?
                             </p>
-                            <a data-toggle="modal" data-target="#myModal" href="#" class=" btn btn-primary btn-rounded" >
+                            <a href="#price" class=" btn btn-primary btn-rounded" >
                                 Réservez votre place maintenant
                             </a>
                         </div>
@@ -66,7 +66,7 @@
                           <p class="cover-date">
                             Thème: Comment réussir dans le digital en 2019 ?
                           </p>
-                          <a data-toggle="modal" data-target="#myModal" href="#" class=" btn btn-primary btn-rounded" >
+                          <a href="#price" class=" btn btn-primary btn-rounded" >
                               Réservez votre place maintenant
                           </a>
                         </div>
