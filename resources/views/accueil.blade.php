@@ -15,7 +15,7 @@
                             </h2>
                             <strong style="font-size: 68px;" class="cover-xl-text">OSCHOOL MADE 2018</strong>
                             <p class="cover-date">
-                                15 décembre 2018  - Hotel Novotel, Abidjan.
+                                15 décembre 2018  - Jokkolabs, Cocody, Abidjan.
                             </p>
                             <p class="cover-date">
                               Thème: Comment réussir dans le digital en 2019 ?
@@ -38,7 +38,7 @@
                             </h2>
                             <strong style="font-size: 68px;" class="cover-xl-text">OSCHOOL MADE 2018</strong>
                             <p class="cover-date">
-                                15 décembre 2018  - Hotel Novotel, Abidjan.
+                                15 décembre 2018  - Jokkolabs, Cocody, Abidjan.
                             </p>
                             <p class="cover-date">
                               Thème: Comment réussir dans le digital en 2019 ?
@@ -61,7 +61,7 @@
                           </h2>
                           <strong style="font-size: 68px;" class="cover-xl-text">OSCHOOL MADE 2018</strong>
                           <p class="cover-date">
-                              15 décembre 2018  - Hotel Novotel, Abidjan.
+                              15 décembre 2018  - Jokkolabs, Cocody, Abidjan.
                           </p>
                           <p class="cover-date">
                             Thème: Comment réussir dans le digital en 2019 ?
@@ -111,7 +111,8 @@
                             lieu
                         </h5>
                         <p>
-                            Novotel, Abidjan.
+                            Jokkolabs, Cocodyn Abidjan.<br>
+                            <strong> <a target="_blank" href="https://goo.gl/maps/3BpzLZrjUDN2">Voir l'adresse du lieu</a> </strong>
                         </p>
                     </div>
                 </div>
