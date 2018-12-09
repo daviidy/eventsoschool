@@ -198,7 +198,7 @@
                 <div class="icon_box_one">
                     <i class="lnr lnr-mic"></i>
                     <div class="content">
-                        <h4>3 speakerss</h4>
+                        <h4>3 speakers</h4>
                         <p>
                             Vous aurez l'occasion d'entendre 3 personnes
                             qui font bouger le milieu digital ivoirien par leur expertise ou
@@ -258,29 +258,41 @@
     <div class="container">
         <div class="section_title mb50">
             <h3 class="title">
-               Peakers
+                Speakers
             </h3>
         </div>
     </div>
     <div class="row justify-content-center no-gutters">
-        <div class="col-md-3 col-sm-6">
+        <div class="col-md-3 col-sm-3">
             <div class="speaker_box">
                 <div class="speaker_img">
-                    <img src="/img/dave.jpeg" alt="David YAO">
+                    <img src="/img/dave.png" alt="David YAO">
                     <div class="info_box">
                         <h5 class="name">David YAO</h5>
-                        <p class="position">Développeur et entrepreneur</p>
+                        <p class="position">CEO Oschool</p>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="col-md-3 col-sm-6">
+        <div class="col-md-3 col-sm-3">
             <div class="speaker_box">
                 <div class="speaker_img">
-                    <img style="width: 63%;" src="/img/clyde.jpg" alt="David YAO">
+                    <img src="/img/clyde.png" alt="Clyde Vacher">
                     <div class="info_box">
                         <h5 class="name">Clyde Vacher</h5>
-                        <p class="position">Marketeur et entrepreneur</p>
+                        <p class="position">Entrepreneur et Coach d'Impact</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-md-3 col-sm-3">
+            <div class="speaker_box">
+                <div class="speaker_img">
+                    <img src="/img/kevin.png" alt="Kevin Niangoran">
+                    <div class="info_box">
+                        <h5 class="name">Kevin Niangoran</h5>
+                        <p class="position">Entreprepreneur en résidence, Digital Media Consultant chez Seedstars</p>
                     </div>
                 </div>
             </div>
@@ -292,7 +304,7 @@
 <!--speaker section end -->
 
 <!--Price section-->
-<section class="pb100">
+<section id="price" class="pb100">
     <div class="container">
         <div class="section_title mb50">
             <h3 class="title">
@@ -315,12 +327,21 @@
                        </h6>
                    </div>
                     <div class="price_tag">
-                        10000 <sup>CFA</sup>
+                        3500 <sup>FCFA</sup>
                     </div>
+                    <div class="">
+                      <p>
+                        Pour vous inscrire, faites un dépôt de 3500 au 58-45-06-00. <br><br>
+                        Puis envoyez à ce même numéro vos coordonnées (nom, prénoms et email),
+                        pour recevoir votre ticket immédiatement.
+                      </p>
 
+                    </div>
+                    <!--
                     <div class="price_footer">
                         <a data-toggle="modal" data-target="#myModal" href="#" class="btn btn-primary btn-rounded">Achetez</a>
                     </div>
+                  -->
                 </div>
             </div>
 
@@ -517,16 +538,16 @@ brands section end-->
     <div class="container">
         <div class="section_title mb30">
             <h3 class="title color-light">
-                Réservez votre place maintenant
+                Surprise pour les plus ponctuels !
             </h3>
         </div>
         <div class="row justify-content-center align-items-center">
-            <div class="col-md-9 text-md-left text-center color-light">
-                Plus vous hésitez, et moins vous arez de chances de participer
-                à ces expériences incroyables que sont les événements Oschool
+            <div style="font-size: 20px;" class="col-md-9 text-md-left text-center color-light">
+                Les 10 premiers arrivés à l'heure à cet événement repartiront avec un t-shirt Oschool gratuitement !
             </div>
             <div class="col-md-3 text-md-right text-center">
-                <a data-toggle="modal" data-target="#myModal" href="#" class="btn btn-primary btn-rounded mt30">Réservez maintenant</a>
+            <!--    <a data-toggle="modal" data-target="#myModal" href="#" class="btn btn-primary btn-rounded mt30">Réservez maintenant</a> -->
+                <a href="#price" class="btn btn-primary btn-rounded mt30">Réservez maintenant</a>
             </div>
         </div>
     </div>

@@ -109,7 +109,7 @@
                     <a class="nav-link " href="#next">Evénéments</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href="https://events.oschool.ci/docs/code-de-vacances.pdf" target="_blank">Programme</a>
+                    <a class="nav-link " href="https://events.oschool.ci/img/made.png" target="_blank">Programme</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " href="#contact">Contact</a>
