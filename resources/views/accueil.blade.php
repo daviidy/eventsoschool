@@ -292,7 +292,7 @@
                     <img src="/img/kevin.png" alt="Kevin Niangoran">
                     <div class="info_box">
                         <h5 class="name">Kevin Niangoran</h5>
-                        <p class="position">Entreprepreneur en résidence, Digital Media Consultant chez Seedstars</p>
+                        <p class="position">Entrepreneur en résidence, Digital Media Consultant chez Seedstars</p>
                     </div>
                 </div>
             </div>
