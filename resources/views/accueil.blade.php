@@ -299,6 +299,32 @@
 
         </div>
 
+        <div class="col-md-3 col-sm-3">
+            <div class="speaker_box">
+                <div class="speaker_img">
+                    <img src="/img/mariam.png" alt="Mariam Diaby">
+                    <div class="info_box">
+                        <h5 class="name">Mariam Diaby</h5>
+                        <p class="position">Spécialiste en marketing et business international <br>
+                          Fondatrice de la communauté web nappy</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-md-3 col-sm-3">
+            <div class="speaker_box">
+                <div class="speaker_img">
+                    <img src="/img/hugo.png" alt="Hugo Prince">
+                    <div class="info_box">
+                        <h5 class="name">Hugo Prince</h5>
+                        <p class="position">Entrepreneur, Podcast Specialist et Vlogger</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
     </div>
 </section>
 <!--speaker section end -->
