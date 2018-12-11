@@ -126,8 +126,7 @@
                             speakers
                         </h5>
                         <p>
-                            David YAO
-                            + invités
+                            Clyde Vacher, Hugo Prince et bien d'autres
                         </p>
                     </div>
                 </div>
@@ -141,7 +140,7 @@
                             Participation
                         </h5>
                         <p>
-                            5.000 FCFA
+                            3.500 FCFA
                         </p>
                     </div>
                 </div>
