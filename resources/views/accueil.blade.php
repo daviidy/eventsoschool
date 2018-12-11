@@ -111,8 +111,8 @@
                             lieu
                         </h5>
                         <p>
-                            Jokkolabs, Cocodyn Abidjan.<br>
-                            <strong> <a target="_blank" href="https://goo.gl/maps/3BpzLZrjUDN2">Voir l'adresse du lieu</a> </strong>
+                            Jokkolabs, Cocody, Abidjan.<br>
+                            <strong> <a style="font-weight: bold;color: #F44336;font-size: 16px;text-decoration: underline;" target="_blank" href="https://goo.gl/maps/3BpzLZrjUDN2">Voir l'adresse du lieu</a> </strong>
                         </p>
                     </div>
                 </div>
